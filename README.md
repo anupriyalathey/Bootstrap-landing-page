@@ -1,5 +1,6 @@
 # Bootstrap-landing-page
-### This is a completely responsive landing page created using bootstrap.
+#### This is a completely responsive landing page created using bootstrap.
+
 ## Screenshots:
 
 ![image](https://user-images.githubusercontent.com/90963726/183236535-e3e0a440-170d-4985-9435-bd31c444346a.png)
